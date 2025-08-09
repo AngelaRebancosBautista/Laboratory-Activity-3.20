@@ -1,0 +1,7 @@
+C:\Users\alyssa\source\repos\LABORATORY 20\bin\Debug\LABORATORY 20.exe.config
+C:\Users\alyssa\source\repos\LABORATORY 20\bin\Debug\LABORATORY 20.exe
+C:\Users\alyssa\source\repos\LABORATORY 20\bin\Debug\LABORATORY 20.pdb
+C:\Users\alyssa\source\repos\LABORATORY 20\obj\Debug\LABORATORY 20.csproj.AssemblyReference.cache
+C:\Users\alyssa\source\repos\LABORATORY 20\obj\Debug\LABORATORY 20.csproj.CoreCompileInputs.cache
+C:\Users\alyssa\source\repos\LABORATORY 20\obj\Debug\LABORATORY 20.exe
+C:\Users\alyssa\source\repos\LABORATORY 20\obj\Debug\LABORATORY 20.pdb
